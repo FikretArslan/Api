@@ -1,0 +1,11 @@
+https://app.swaggerhub.com/apis/MuratTANC/gmi-bank_backend_api/0.0.1
+
+https://demoqa.com/swagger/
+
+https://bookstore.toolsqa.com/swagger/
+
+
+https://petstore.swagger.io/
+
+
+https://www.youtube.com/c/postman
